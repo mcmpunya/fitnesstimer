@@ -1,1 +1,1 @@
-Fitness timer app built with nextjs with PWA style
+Fitness timer app built with nextjs with PWA style. demo at https://fitnesstimer-omega.vercel.app/
